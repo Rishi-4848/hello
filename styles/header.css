@@ -1,0 +1,143 @@
+.header{
+  height: 55px;
+  display: flex;
+  flex-direction: row;
+  justify-content:space-between ;
+}
+
+.leftheader{
+  
+  width: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  
+}
+
+.hambergicon{
+  height: 25px;
+}
+
+.youtubeicon{
+  height: 25px;
+  margin-left: 25px;
+}
+
+.centerheader{
+  margin-left: 280px;
+  margin-right: 200px;
+  max-width: 500px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.searchbar{
+  height: 35px;
+  width: 400px;
+  border-color:rgb(175,175,175);
+  border-radius: 2px;
+  font-size:  15px ;
+  border-style: solid;
+  padding-left: 10px;
+  box-shadow: inset 1px 2px 3px rgba(0,0,0,0.05);
+}
+
+
+.searchbar::placeholder{
+  font-size: 18px;
+}
+
+.searchbutton{
+  border-color:rgb(175, 175, 175);
+  width: 60px;
+  height: 40px;
+  border-style: solid;
+  margin-left: -1px;
+}
+
+.voicebutton{
+  border-color:rgb(175, 175, 175);
+  height: 40px;
+  margin-left: 10px;
+  border-radius: 30px ;
+  border: none;
+}
+
+.searchicon{
+  width: 20px;
+ height: 20px;
+
+}
+
+
+.voiceicon{
+  width: 20px;
+ 
+
+}
+
+.rightheader{
+  width: 220px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  
+  
+}
+
+.uploadbutton{
+  height: 30px;
+  border:none;
+  margin-right: 20px;
+  background-color: white;
+
+}
+
+.uploadicon{
+  height: 20px;
+
+}
+
+.appsbutton{
+  height: 24px;
+  border: none;
+  margin-right: 20px;
+  background-color: white;
+
+
+}
+
+.appsicon{
+  height: 20px;
+
+}
+
+.notificationbutton{
+  height: 20px;
+  border: none;
+  margin-right: 20px;
+  background-color: white;
+  
+
+
+}
+
+.notificationicon{
+  height: 24px;
+
+}
+
+.mylogobutton{
+  width: 8px;
+  border:none;
+  border-radius: 30px;
+
+
+}
+
+.mylogoicon{
+  height: 35px;
+  
+
+}
