@@ -1,1 +1,6 @@
 # youtube-clone
+youtube static model...
+using ony html and css...
+my first project.
+##source
+youtube https://www.youtube.com/@SuperSimpleDev/
